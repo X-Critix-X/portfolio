@@ -45,7 +45,7 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 ## Work Experience
 
 ### **Sales Assistant** - [Lakeland]
-*Month/Year - Month/Year*
+*August 2023 - Present*
 - Managed customer queries and feedback, improving communication and problem-solving skills.
 - Worked in a fast-paced environment, learning to manage multiple priorities effectively.
 
