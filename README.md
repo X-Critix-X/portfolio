@@ -33,8 +33,8 @@ Welcome to my game development portfolio! I specialize in creating engaging, int
 ## Contact
 
 - **Portfolio:** [Link to your site]
-- **Email:** inquiries@elliotking.co.uk
-- **LinkedIn:** https://www.linkedin.com/in/elliot-king-31a41b214/
+- **Email:** [inquiries@elliotking.co.uk](mailto:inquiries@elliotking.co.uk)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/elliot-king-31a41b214/)
 
 ---
 
