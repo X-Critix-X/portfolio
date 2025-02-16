@@ -62,7 +62,7 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 
 ## Contact
 
-- **Portfolio:** [GitHub Profile](https://github.com/YourUsername)
+- **Portfolio:** [GitHub Profile](https://github.com/X-Critix-X)
 - **Email:** [inquiries@elliotking.co.uk](mailto:inquiries@elliotking.co.uk)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/elliot-king-31a41b214/)
 
