@@ -25,7 +25,7 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 - **Description:** Recreated classic games like Space Invaders, Breakout and a platformer game, focusing on game mechanics, collision detection, and score tracking to replicate the original game feel.
 - **Technologies Used:** C++ in Clion
 - **GitHub Repositories:** 
-- [Platformer Repo](https://github.com/UWEGames-GiC/platformer-23-24-X-Critix-X)
+- [Platformer Repo](https://github.com/X-Critix-X/PlatformerGame)
 - [Space Invaders Repo](https://github.com/UWEGames-GiC/space-invaders-23-24-X-Critix-X)
 - [Breakout Repo](https://github.com/UWEGames-GiC/breakout-23-24-X-Critix-X)
 
