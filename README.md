@@ -19,7 +19,7 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 ### **Game Level Design Project (Unreal Engine)(In progress)**
 - **Description:** Developed a single-level game with unique teleportation and projectile mechanics. Designed a boss AI using nav mesh behavior and cinematic sequences, with full controller support.
 - **Technologies Used:** Unreal Engine 5, Blueprints, Nav Mesh
-- **GitHub Repository:** [Level Design Repository]((https://github.com/UWE-GPP-23-24/gpp-project-assignment-X-Critix-X))
+
 
 ### **Retro Game Remakes (C++)**
 - **Description:** Recreated classic games like Space Invaders, Breakout and a platformer game, focusing on game mechanics, collision detection, and score tracking to replicate the original game feel.
