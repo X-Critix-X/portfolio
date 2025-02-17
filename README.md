@@ -17,8 +17,8 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 ## Projects
 
 ### **Game Level Design Project (Unreal Engine)(In progress)**
-- **Description:** Developed a single-level game with unique teleportation and fireball mechanics. Designed a boss AI using nav mesh behavior and cinematic sequences, with full controller support.
-- **Technologies Used:** Unreal Engine 5, C++, Blueprint, Nav Mesh
+- **Description:** Developed a single-level game with unique teleportation and projectile mechanics. Designed a boss AI using nav mesh behavior and cinematic sequences, with full controller support.
+- **Technologies Used:** Unreal Engine 5, Blueprints, Nav Mesh
 - **GitHub Repository:** [Level Design Repository]((https://github.com/UWE-GPP-23-24/gpp-project-assignment-X-Critix-X))
 
 ### **Retro Game Remakes (C++)**
@@ -30,8 +30,8 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 - [Breakout Repo](https://github.com/UWEGames-GiC/breakout-23-24-X-Critix-X)
 
 ### **Pathfinding System (Python)**
-- **Description:** Built a simple pathfinding system using A* or BFS. Implemented dynamic behavior to adjust NPC movement in response to environmental changes.
-- **Technologies Used:** Python, Pygame (or other libraries)
+- **Description:** Built a simple pathfinding system. Implemented dynamic behavior to adjust player movement in response to the environment.
+- **Technologies Used:** Python, PyCharm
 - **GitHub Repository:** [Pathfinding Repo](https://github.com/UWEGames-GT101/grid-based-game-X-Critix-X)
 
 ### **Game Design Documentation** 
