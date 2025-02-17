@@ -26,13 +26,13 @@ Welcome to my portfolio! I’m a passionate and driven game developer specializi
 - **Technologies Used:** C++ in Clion
 - **GitHub Repositories:** 
 - [Platformer Repo](https://github.com/X-Critix-X/PlatformerGame)
-- [Space Invaders Repo](https://github.com/UWEGames-GiC/space-invaders-23-24-X-Critix-X)
-- [Breakout Repo](https://github.com/UWEGames-GiC/breakout-23-24-X-Critix-X)
+- [Space Invaders Repo](https://github.com/X-Critix-X/SpaceInvaders)
+- [Breakout Repo](https://github.com/X-Critix-X/Breakout)
 
 ### **Pathfinding System (Python)**
 - **Description:** Built a simple pathfinding system. Implemented dynamic behavior to adjust player movement in response to the environment.
 - **Technologies Used:** Python, PyCharm
-- **GitHub Repository:** [Pathfinding Repo](https://github.com/UWEGames-GT101/grid-based-game-X-Critix-X)
+- **GitHub Repository:** [Pathfinding Repo](https://github.com/X-Critix-X/Pathfinding)
 
 ### **Game Design Documentation** 
 **Description:**
